@@ -6,9 +6,9 @@ const Cart = (props) => {
     let totalSalary= 0 ;
 
     for (let i = 0; i < cart.length; i++) {
-        const user = cart[i];
+        const useri = cart[i];
 
-        totalSalary = totalSalary + user.salary;
+        totalSalary = totalSalary + useri.salary;
 
 
         
