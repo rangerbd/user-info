@@ -1,0 +1,24 @@
+.design{
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+    line-height: 3px;
+    
+    
+}
+
+.design img{
+    width: 150px;
+    height: 150px;
+    display: flex;
+   
+}
+
+.design button{
+    background-color: aqua;
+    border: none;
+    border-radius: 5px solid aqua;
+    cursor: pointer;
+   
+    
+}
